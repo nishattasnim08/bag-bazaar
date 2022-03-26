@@ -24,5 +24,10 @@
     margin: 0;
 }
 .button-container{
-    margin: 40px 0;
+    margin: 30px 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.button-container:hover{
+    background-color: darkgrey;
 }
