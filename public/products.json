@@ -10,35 +10,35 @@
       "id": "002",
       "image": "https://img.freepik.com/free-photo/beautiful-elegance-luxury-fashion-women-bag_1203-7665.jpg?w=900",
       "price": 340,
-      "shipping": 5,
+      "shipping": 3,
       "name": "Beautiful Elegance Luxury Fashion Nude Women Bag"
     },
     {
       "id": "003",
       "image": "https://img.freepik.com/free-photo/beautiful-elegance-luxury-fashion-women-blue-handbag_74190-4887.jpg?t=st=1648286201~exp=1648286801~hmac=36a47b8bf3328c52a05fd16ac7ba4466c89f1dd235e3e8c6bdd70228fdf5fb8e&w=900",
       "price": 215,
-      "shipping": 5,
+      "shipping": 8,
       "name": "Beautiful Elegance Luxury Fashion Women Blue Handbag"
     },
     {
       "id": "004",
       "image": "https://img.freepik.com/free-photo/beautiful-elegance-luxury-fashion-green-handbag_74190-4885.jpg?w=900",
       "price": 313,
-      "shipping": 5,
+      "shipping": 6,
       "name": "Beautiful Elegance Luxury Fashion Green Handbag"
     },
     {
       "id": "005",
       "image": "https://images.pexels.com/photos/6273058/pexels-photo-6273058.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "price": 286,
-      "shipping": 5,
+      "shipping": 9,
       "name": "Beautiful Nude Leather Female Handbag"
     },
     {
       "id": "006",
       "image": "https://img.freepik.com/free-photo/fashionable-woman-s-stylish-bag-isolated-white-background-beautiful-purple-luxury-leather-female-handbag-luxury-accessories_186202-4480.jpg?t=st=1648286392~exp=1648286992~hmac=f42a189f4ba1d2dc119dbc12e73339e7d236d05fbdff36632bcf46200b079b7f&w=900",
       "price": 271,
-      "shipping": 5,
+      "shipping": 4,
       "name": "Beautiful Purple Luxury Leather Female Handbag"
     },
     {
@@ -52,35 +52,35 @@
       "id": "008",
       "image": "https://img.freepik.com/free-photo/luxury-woman-handbag_1203-8391.jpg?t=st=1648286201~exp=1648286801~hmac=388baeb8e1f63f02e8e9c2710dc524a1eb6c701c0403611bf88c4bc1186d4407&w=900",
       "price": 270,
-      "shipping": 5,
+      "shipping": 7,
       "name": "Luxury Woman Brown Handbag"
     },
     {
       "id": "009",
       "image": "https://img.freepik.com/free-photo/luxury-woman-handbag_1203-8394.jpg?w=900",
       "price": 229,
-      "shipping": 5,
+      "shipping": 2,
       "name": "Luxury Woman Pink Handbag"
     },
     {
       "id": "010",
       "image": "https://img.freepik.com/free-photo/female-bag-white-textile_93675-131968.jpg?t=st=1648295727~exp=1648296327~hmac=6ee8779cf32320ce1852988d8ee22f9178d09c2e0883803fec357c22d27055bf&w=996",
       "price": 372,
-      "shipping": 5,
+      "shipping": 9,
       "name": "Purple Elegance Woman Luxury"
     },
     {
       "id": "011",
       "image": "https://img.freepik.com/free-photo/beautiful-elegance-luxury-fashion-women-bag_74190-4900.jpg?t=st=1648286201~exp=1648286801~hmac=b5b7d035fd78e73aaffe1ef779bf02bcf586cb39dec39eba380ea32a272be5b3&w=900",
       "price": 346,
-      "shipping": 5,
+      "shipping": 3,
       "name": "Beautiful Elegance Luxury Brown Fashion Women Bag"
     },
     {
       "id": "012",
       "image": "https://img.freepik.com/free-photo/beautiful-shot-black-purse-white-table-with-pink_181624-22681.jpg?t=st=1648295833~exp=1648296433~hmac=b19056231996bfbc0cda04d3829770965da7526cf58b7e392679a5779933e4a9&w=996",
       "price": 399,
-      "shipping": 5,
+      "shipping": 7,
       "name": "Black Elegance Woman Luxury Handbag"
     }
   ]
