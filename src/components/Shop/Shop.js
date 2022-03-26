@@ -7,15 +7,26 @@ const Shop = () => {
     const [products, setProducts] = useState([]);
     const [cart, setCart] = useState([]);
 
-    useEffect( () => {
+    useEffect(() => {
         fetch('products.json')
             .then(res => res.json())
             .then(data => setProducts(data))
     }, []);
 
-    const handleAddToCart = (product) =>{
-        const newCart = [...cart, product];
-        setCart(newCart);
+    const handleAddToCart = (product) => {
+        if (cart.indexOf(product) < 0) {
+            if (cart.length < 4) {
+                const newCart = [...cart, product];
+                setCart(newCart);
+            }
+            else {
+                alert("You've already selected 4 items!")
+            }
+        }
+        else {
+            alert("This Product is already selected!")
+        }
+
     }
 
     return (
@@ -26,11 +37,11 @@ const Shop = () => {
             <div className="shop-container">
                 <div className="product-container">
                     {
-                        products.map(product=><Product 
+                        products.map(product => <Product
                             key={product.id}
                             product={product}
                             handleAddToCart={handleAddToCart}
-                            ></Product>)
+                        ></Product>)
                     }
                 </div>
                 <div className="cart-container">
