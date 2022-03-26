@@ -2,14 +2,16 @@ import React from 'react';
 import './Cart.css'
 
 const Cart = (props) => {
-    const { cart, clearCart} = props;
+    const { cart, clearCart } = props;
 
     const randomButton = () => {
         if (cart.length > 1) {
             const random = Math.floor(Math.random() * cart.length);
             alert(cart[random].name + " is selected for you!");
         }
-
+        else {
+            alert("You should select at least 2 items!");
+        }
     }
     return (
         <div className='cart'>
