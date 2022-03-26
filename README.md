@@ -3,4 +3,4 @@
 This project was reserved in [github private repository](https://github.com/Programming-Hero-Web-Course4/lucky-one-nishattasnim08).
 
 ## Live Website Link
-This project was reserved in [netlify live website](https://github.com/Programming-Hero-Web-Course4/lucky-one-nishattasnim08).
+This project was reserved in [netlify live website](https://charming-faun-dcc162.netlify.app/).
