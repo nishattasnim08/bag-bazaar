@@ -2,7 +2,7 @@ import React from 'react';
 import './Cart.css'
 
 const Cart = (props) => {
-    const { cart } = props;
+    const { cart, clearCart} = props;
 
     const randomButton = () => {
         if (cart.length > 1) {
@@ -23,11 +23,11 @@ const Cart = (props) => {
                     </ProductShow>)
                 }
             </div>
-            <div >
+            <div className='cart-button'>
                 <button onClick={randomButton}>
                     <p>Random Choice</p>
                 </button>
-                <button>
+                <button onClick={clearCart}>
                     <p>Reset All</p>
                 </button>
             </div>

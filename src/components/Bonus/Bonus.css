@@ -1,0 +1,9 @@
+.bonus-part{
+    width: 90%;
+    margin: 40px auto;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    background-color: lightgrey;
+}
